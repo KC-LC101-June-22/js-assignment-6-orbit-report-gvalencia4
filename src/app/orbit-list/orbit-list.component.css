@@ -7,6 +7,10 @@
 	background-color: #da8a8a;
 }
 
+.data-row:nth-child(even){
+    background-color: rgb(0, 255, 42);
+}
+
 table {
  color: #111;
  border-radius: 5px;
